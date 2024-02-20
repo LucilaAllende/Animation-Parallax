@@ -10,7 +10,8 @@ El ciclo de animación se maneja con el método requestAnimationFrame, lo que ga
 
 ## Demostración en GIF
 
-![GIF Demo](animation_parallax.gif)
+![GIF Demo](animation_parallax_1.gif)
+![GIF Demo](animation_parallax_2.gif)
 
 ## Instrucciones de Uso
 
